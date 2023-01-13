@@ -1,0 +1,20 @@
+.smallheight{
+    height:20px;
+}
+
+.equalheight{
+    height: 150px;
+}
+.paperclass :hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+.divincenter{
+    
+        margin-top: 15%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+}
